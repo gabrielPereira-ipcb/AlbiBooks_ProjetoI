@@ -59,9 +59,8 @@ The tests indicate that the **RAG** implementation significantly improves respon
 This project was developed as part of the Bachelor's degree in Computer Science and Multimedia at the School of Technology of the Polytechnic Institute of Castelo Branco.
 
 ## References
-- Base tutorial: [Advanced RAG on Hugging Face](https://huggingface.co/docs)
-- Dataset: [Goodreads Books (Kaggle)](https://www.kaggle.com/datasets)
+- Base tutorial: [Advanced RAG on Hugging Face](https://huggingface.co/learn/cookbook/advanced_rag#advanced-rag-on-hugging-face-documentation-using-langchain)
+- Dataset: [Goodreads Books](https://huggingface.co/datasets/Eitanli/goodreads)
 
-## License
-This project is distributed under the MIT license.
+
 
