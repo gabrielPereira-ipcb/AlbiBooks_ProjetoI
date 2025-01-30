@@ -31,7 +31,7 @@ AlbiBooks/
 ## How to Run
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/albibooks.git
+   git clone https://github.com/gabrielPereira-ipcb/AlbiBooks_ProjetoI.git
    cd albibooks
    ```
 2. **Install dependencies**:
