@@ -1,0 +1,404 @@
+```json
+[
+  {
+    "id": "q1_titulo_localizacao",
+    "pergunta": "Onde encontro o livro 'Manual de horticultura' e qual é a sua cota?"
+  },
+  {
+    "id": "q2_autor_localizacao",
+    "pergunta": "Que obras de 'Carlos Fiolhais' estão disponíveis na Biblioteca Central?"
+  },
+  {
+    "id": "q3_tema_amplo_localizacao",
+    "pergunta": "Que materiais existem sobre 'energias renováveis' na Escola Superior Agrária?"
+  },
+  {
+    "id": "q4_tipo_pais_tema",
+    "pergunta": "Existem 'Normas' publicadas em Portugal sobre 'segurança alimentar'?"
+  },
+  {
+    "id": "q5_multi_tema_localizacao",
+    "pergunta": "Procuro informação sobre 'cuidados paliativos' e 'oncologia' na Escola Superior de Saúde Dr. Lopes Dias."
+  },
+  {
+    "id": "q6_idioma_material",
+    "pergunta": "O livro 'Integrais múltiplos' de Silva & Marques está em que idioma?"
+  },
+  {
+    "id": "q7_coautor_tipo",
+    "pergunta": "Quais 'Analíticos' têm 'K. A. Jackson' como co-autor?"
+  },
+  {
+    "id": "q8_disponibilidade_tema_tecnico",
+    "pergunta": "A biblioteca possui algum material sobre 'Anomalia de Poland'?"
+  },
+  {
+    "id": "q9_tema_tipo_localizacao",
+    "pergunta": "Gostaria de consultar monografias sobre 'literatura infantil' na Escola Superior de Educação. Quais as opções?"
+  },
+  {
+    "id": "q10_teste_negativo",
+    "pergunta": "Têm algum material sobre 'astrofísica de buracos negros supermassivos' na Escola Superior de Saúde?"
+  },
+  {
+    "id": "q11_saude_mono_tema",
+    "pergunta": "Quais monografias sobre 'anatomia cardíaca' estão disponíveis na Escola Superior de Saúde Dr. Lopes Dias?"
+  },
+  {
+    "id": "q12_saude_analitico_tema",
+    "pergunta": "Existem analíticos sobre 'terapias genéticas para doenças raras'?"
+  },
+  {
+    "id": "q13_saude_normas_residuos",
+    "pergunta": "Procuro normas sobre 'gestão de resíduos hospitalares'."
+  },
+  {
+    "id": "q14_saude_multimedia_fisiologia",
+    "pergunta": "Onde encontro material multimédia sobre 'fisiologia do exercício'?"
+  },
+  {
+    "id": "q15_saude_cota_epidemiologia",
+    "pergunta": "Qual a cota para livros de 'epidemiologia avançada' na Escola Superior de Saúde Dr. Lopes Dias?"
+  },
+  {
+    "id": "q16_saude_esquizofrenia_pt",
+    "pergunta": "Há estudos de caso sobre 'esquizofrenia' em língua portuguesa na Escola Superior de Saúde Dr. Lopes Dias?"
+  },
+  {
+    "id": "q17_agraria_manual_pragas",
+    "pergunta": "Quais são os manuais de 'controlo biológico de pragas' disponíveis na Escola Superior Agrária?"
+  },
+  {
+    "id": "q18_agraria_teses_precisao",
+    "pergunta": "Existem teses ou dissertações sobre 'agricultura de precisão' na Escola Superior Agrária?"
+  },
+  {
+    "id": "q19_agraria_cartografia_solos",
+    "pergunta": "Procuro material cartográfico relacionado com 'tipos de solo da região de Castelo Branco'."
+  },
+  {
+    "id": "q20_agraria_normas_animal_bio",
+    "pergunta": "Quais as normas europeias para 'produção animal biológica' que a biblioteca da Escola Superior Agrária possui?"
+  },
+  {
+    "id": "q21_agraria_autor_altieri",
+    "pergunta": "Há obras de 'Miguel Altieri' sobre agroecologia na Escola Superior Agrária?"
+  },
+  {
+    "id": "q22_educacao_autor_piaget",
+    "pergunta": "Que livros de 'Jean Piaget' sobre desenvolvimento infantil estão na Escola Superior de Educação?"
+  },
+  {
+    "id": "q23_educacao_mono_matematica",
+    "pergunta": "Procuro monografias sobre 'métodos de ensino de matemática no primeiro ciclo' na Escola Superior de Educação."
+  },
+  {
+    "id": "q24_educacao_multimedia_musica",
+    "pergunta": "Existem recursos multimédia para 'educadores de infância' focados em 'música na educação'?"
+  },
+  {
+    "id": "q25_educacao_periodicos_especial",
+    "pergunta": "Quais periódicos científicos sobre 'educação especial' a Escola Superior de Educação subscreve ou possui?"
+  },
+  {
+    "id": "q26_educacao_cota_geral",
+    "pergunta": "Onde se localizam os livros com a cota que começa por '370.15' na Escola Superior de Educação?"
+  },
+  {
+    "id": "q27_central_dicionario_medico",
+    "pergunta": "Que dicionários de 'terminologia médica' estão disponíveis na Biblioteca Central?"
+  },
+  {
+    "id": "q28_central_autor_pessoa",
+    "pergunta": "Procuro obras completas de 'Fernando Pessoa' na Biblioteca Central."
+  },
+  {
+    "id": "q29_central_manual_estatistica_en",
+    "pergunta": "Existem manuais de 'estatística aplicada às ciências sociais' em inglês na Biblioteca Central?"
+  },
+  {
+    "id": "q30_central_atlas_mundial",
+    "pergunta": "Quais são os atlas geográficos mundiais disponíveis para consulta na Biblioteca Central?"
+  },
+  {
+    "id": "q31_eng_civil_estruturas_bc",
+    "pergunta": "Que livros sobre 'análise de estruturas de betão armado' posso encontrar na Biblioteca Central?"
+  },
+  {
+    "id": "q32_direito_europeu_ese",
+    "pergunta": "Existem manuais de 'Direito da União Europeia' na Escola Superior de Educação para o curso de Solicitadoria?"
+  },
+  {
+    "id": "q33_economia_macro_bc",
+    "pergunta": "Procuro obras de 'John Maynard Keynes' sobre macroeconomia na Biblioteca Central."
+  },
+  {
+    "id": "q34_artes_historia_arte_pt_ese",
+    "pergunta": "Que livros sobre 'História da Arte em Portugal' estão disponíveis na Escola Superior de Educação?"
+  },
+  {
+    "id": "q35_informatica_python_bc",
+    "pergunta": "Têm manuais de programação em 'Python para iniciantes' na Biblioteca Central?"
+  },
+  {
+    "id": "q36_saude_artigo_diabetes_en",
+    "pergunta": "Gostaria de encontrar artigos analíticos em Inglês sobre 'tratamento de diabetes tipo 2'."
+  },
+  {
+    "id": "q37_agraria_revista_agroflorestal",
+    "pergunta": "A Escola Superior Agrária tem a revista 'Agrofloresta Ibérica'?"
+  },
+  {
+    "id": "q38_educacao_tese_bilinguismo_es",
+    "pergunta": "Há teses sobre 'educação bilingue em contexto pré-escolar' em Espanhol na Escola Superior de Educação?"
+  },
+  {
+    "id": "q39_central_norma_iso9001",
+    "pergunta": "A Biblioteca Central possui a norma 'ISO 9001'?"
+  },
+  {
+    "id": "q40_saude_multimedia_anatomia_humana",
+    "pergunta": "Que DVDs ou recursos multimédia sobre 'anatomia humana detalhada' existem na Escola Superior de Saúde?"
+  },
+  {
+    "id": "q41_titulo_parcial_localizacao",
+    "pergunta": "Onde encontro materiais com 'gestão de projetos' no título, na Biblioteca Central?"
+  },
+  {
+    "id": "q42_autor_tema_especifico",
+    "pergunta": "O autor 'António Damásio' tem livros sobre 'neurociência da emoção' disponíveis?"
+  },
+  {
+    "id": "q43_tema_recente_agraria",
+    "pergunta": "Quais são os estudos mais recentes sobre 'impacto das alterações climáticas na viticultura' na Escola Superior Agrária?"
+  },
+  {
+    "id": "q44_tipo_material_idioma_saude",
+    "pergunta": "Existem monografias em Francês sobre 'saúde materno-infantil' na Escola Superior de Saúde?"
+  },
+  {
+    "id": "q45_localizacao_tema_educacao",
+    "pergunta": "Na Escola Superior de Educação, que materiais existem sobre 'inclusão digital na terceira idade'?"
+  },
+  {
+    "id": "q46_cota_parcial_central",
+    "pergunta": "Que tipo de livros encontro na Biblioteca Central com a cota começando por '821.134.3'?"
+  },
+  {
+    "id": "q47_coautor_tema_central",
+    "pergunta": "O co-autor 'Maria Silva' participou em alguma obra sobre 'literatura portuguesa contemporânea' na Biblioteca Central?"
+  },
+  {
+    "id": "q48_disponibilidade_tema_nichado_agraria",
+    "pergunta": "A Escola Superior Agrária tem algum material sobre 'criação de caracóis em cativeiro'?"
+  },
+  {
+    "id": "q49_tema_tipo_idioma_educacao",
+    "pergunta": "Procuro analíticos em Inglês sobre 'gamificação no ensino superior' na Escola Superior de Educação."
+  },
+  {
+    "id": "q50_teste_negativo_autor_ficticio",
+    "pergunta": "Existem obras do autor 'Barnaby Fletch' sobre 'viagens interdimensionais'?"
+  },
+  {
+    "id": "q51_saude_farmacologia_basica",
+    "pergunta": "Qual é o principal manual de 'farmacologia básica' recomendado na Escola Superior de Saúde?"
+  },
+  {
+    "id": "q52_agraria_solos_sustentabilidade",
+    "pergunta": "Que publicações sobre 'manejo sustentável de solos agrícolas' a Escola Superior Agrária possui?"
+  },
+  {
+    "id": "q53_educacao_NEE_politicas",
+    "pergunta": "Onde posso encontrar informação sobre 'políticas de inclusão para alunos com Necessidades Educativas Especiais' na Escola Superior de Educação?"
+  },
+  {
+    "id": "q54_central_historia_local_cb",
+    "pergunta": "A Biblioteca Central tem livros sobre a 'história da cidade de Castelo Branco'?"
+  },
+  {
+    "id": "q55_saude_ingles_instrumental",
+    "pergunta": "Existem materiais para aprender 'Inglês instrumental para profissionais de saúde'?"
+  },
+  {
+    "id": "q56_agraria_viticultura_regiao_da_beira",
+    "pergunta": "Procuro estudos sobre 'viticultura na região da Beira Interior' na Escola Superior Agrária."
+  },
+  {
+    "id": "q57_educacao_psicologia_aprendizagem",
+    "pergunta": "Quais são os autores de referência em 'psicologia da aprendizagem' com obras na Escola Superior de Educação?"
+  },
+  {
+    "id": "q58_central_arquitetura_contemporanea_es",
+    "pergunta": "Há livros sobre 'arquitetura contemporânea espanhola' na Biblioteca Central?"
+  },
+  {
+    "id": "q59_saude_gestao_unidades_saude",
+    "pergunta": "Que monografias sobre 'gestão de unidades de saúde' estão disponíveis?"
+  },
+  {
+    "id": "q60_agraria_certificacao_florestal",
+    "pergunta": "A Escola Superior Agrária possui normas ou guias sobre 'certificação florestal FSC'?"
+  },
+  {
+    "id": "q61_educacao_bullying_escolar_prevencao",
+    "pergunta": "Procuro materiais sobre 'prevenção do bullying em contexto escolar' na Escola Superior de Educação."
+  },
+  {
+    "id": "q62_central_filosofia_ciencia_autor_popper",
+    "pergunta": "A Biblioteca Central tem obras de 'Karl Popper' sobre 'filosofia da ciência'?"
+  },
+  {
+    "id": "q63_saude_enfermagem_comunitaria_livro",
+    "pergunta": "Qual é o principal livro de 'enfermagem comunitária' usado na Escola Superior de Saúde?"
+  },
+  {
+    "id": "q64_agraria_olivicultura_azeite_qualidade",
+    "pergunta": "Existem estudos sobre 'qualidade do azeite e técnicas de olivicultura' na Escola Superior Agrária?"
+  },
+  {
+    "id": "q65_educacao_didatica_lingua_materna",
+    "pergunta": "Que autores são referência em 'didática da língua materna' com livros na Escola Superior de Educação?"
+  },
+  {
+    "id": "q66_central_musica_classica_compositores_mozart",
+    "pergunta": "A Biblioteca Central tem biografias ou análises de obras de 'Wolfgang Amadeus Mozart'?"
+  },
+  {
+    "id": "q67_saude_bioestatistica_software_r",
+    "pergunta": "Há manuais sobre 'bioestatística utilizando o software R' na Escola Superior de Saúde?"
+  },
+  {
+    "id": "q68_agraria_irrigacao_eficiente_milho",
+    "pergunta": "Procuro informação sobre 'técnicas de irrigação eficiente para a cultura do milho' na Escola Superior Agrária."
+  },
+  {
+    "id": "q69_educacao_avaliacao_formativa_exemplos",
+    "pergunta": "Existem exemplos práticos de 'avaliação formativa' em livros na Escola Superior de Educação?"
+  },
+  {
+    "id": "q70_central_cinema_novo_brasil",
+    "pergunta": "Que materiais a Biblioteca Central possui sobre o 'Cinema Novo brasileiro'?"
+  },
+  {
+    "id": "q71_saude_etica_medica_casos",
+    "pergunta": "Gostaria de consultar livros com 'casos práticos de ética médica' na Escola Superior de Saúde."
+  },
+  {
+    "id": "q72_agraria_apicultura_sustentavel",
+    "pergunta": "A Escola Superior Agrária tem recursos sobre 'apicultura sustentável'?"
+  },
+  {
+    "id": "q73_educacao_tecnologias_educativas_impacto",
+    "pergunta": "Quais são os estudos sobre o 'impacto das tecnologias na educação básica' disponíveis na Escola Superior de Educação?"
+  },
+  {
+    "id": "q74_central_sociologia_urbana_autores_fr",
+    "pergunta": "Que autores franceses de 'sociologia urbana' estão no catálogo da Biblioteca Central?"
+  },
+  {
+    "id": "q75_saude_nutricao_desportiva_guia",
+    "pergunta": "Existe algum guia prático de 'nutrição desportiva' na Escola Superior de Saúde?"
+  },
+  {
+    "id": "q76_agraria_maquinaria_agricola_manutencao",
+    "pergunta": "Onde encontro manuais sobre 'manutenção de maquinaria agrícola' na Escola Superior Agrária?"
+  },
+  {
+    "id": "q77_educacao_literacia_digital_jovens",
+    "pergunta": "Procuro estudos sobre 'literacia digital em jovens' na Escola Superior de Educação."
+  },
+  {
+    "id": "q78_central_pintura_renascentista_italiana",
+    "pergunta": "A Biblioteca Central possui livros sobre 'pintura renascentista italiana'?"
+  },
+  {
+    "id": "q79_saude_primeiros_socorros_pediatricos",
+    "pergunta": "Existem manuais de 'primeiros socorros pediátricos' na Escola Superior de Saúde?"
+  },
+  {
+    "id": "q80_agraria_gestao_recursos_hidricos_agricultura",
+    "pergunta": "Que materiais sobre 'gestão de recursos hídricos na agricultura' estão na Escola Superior Agrária?"
+  },
+  {
+    "id": "q81_educacao_filosofia_educacao_dewey",
+    "pergunta": "Encontro obras de 'John Dewey' sobre 'filosofia da educação' na Escola Superior de Educação?"
+  },
+  {
+    "id": "q82_central_historia_segunda_guerra_fotos",
+    "pergunta": "A Biblioteca Central tem livros com fotografias da 'Segunda Guerra Mundial'?"
+  },
+  {
+    "id": "q83_saude_fisioterapia_respiratoria_tecnicas",
+    "pergunta": "Quais são as técnicas de 'fisioterapia respiratória' abordadas em livros na Escola Superior de Saúde?"
+  },
+  {
+    "id": "q84_agraria_cultura_pequenos_frutos_manual",
+    "pergunta": "Existe algum manual sobre a 'cultura de pequenos frutos vermelhos' na Escola Superior Agrária?"
+  },
+  {
+    "id": "q85_educacao_pedagogia_freinet_aplicacoes",
+    "pergunta": "Como aplicar a 'pedagogia de Freinet'? Há livros sobre isso na Escola Superior de Educação?"
+  },
+  {
+    "id": "q86_central_economia_portuguesa_seculo_xxi",
+    "pergunta": "Que análises sobre a 'economia portuguesa no século XXI' estão disponíveis na Biblioteca Central?"
+  },
+  {
+    "id": "q87_saude_saude_mental_comunitaria_modelos",
+    "pergunta": "Quais modelos de 'saúde mental comunitária' são discutidos em publicações na Escola Superior de Saúde?"
+  },
+  {
+    "id": "q88_agraria_melhoramento_genetico_animal_bovinos",
+    "pergunta": "Procuro literatura sobre 'melhoramento genético de bovinos de corte' na Escola Superior Agrária."
+  },
+  {
+    "id": "q89_educacao_curriculo_escolar_flexibilidade",
+    "pergunta": "Que autores discutem a 'flexibilidade curricular no ensino básico' na Escola Superior de Educação?"
+  },
+  {
+    "id": "q90_central_direito_internacional_publico_casos",
+    "pergunta": "A Biblioteca Central tem compilações de casos de 'Direito Internacional Público'?"
+  },
+  {
+    "id": "q91_titulo_ano_especifico_agraria",
+    "pergunta": "Na Escola Superior Agrária, que materiais sobre 'Agricultura Biológica' foram publicados em 2022?"
+  },
+  {
+    "id": "q92_autor_palavrachave_saude",
+    "pergunta": "O autor 'Manuel Sobrinho Simões' tem publicações sobre 'patologia molecular' na Escola Superior de Saúde?"
+  },
+  {
+    "id": "q93_tema_comparativo_central_ese",
+    "pergunta": "Compare as abordagens sobre 'psicologia do desenvolvimento' em livros da Biblioteca Central e da Escola Superior de Educação."
+  },
+  {
+    "id": "q94_tipo_material_recente_central",
+    "pergunta": "Quais foram as últimas 'Monografias' adicionadas ao catálogo da Biblioteca Central sobre história?"
+  },
+  {
+    "id": "q95_localizacao_autor_famoso_varias_obras",
+    "pergunta": "Onde posso encontrar as diferentes obras de 'José Saramago' disponíveis nas várias bibliotecas do campus?"
+  },
+  {
+    "id": "q96_cota_idioma_especifico_saude",
+    "pergunta": "Na Escola Superior de Saúde, os livros com cota 'WP 100' estão maioritariamente em que idioma?"
+  },
+  {
+    "id": "q97_coautor_tema_recente_agraria",
+    "pergunta": "O co-autor 'Ana Ferreira' esteve envolvida em estudos recentes sobre 'sustentabilidade agrícola' na Escola Superior Agrária?"
+  },
+  {
+    "id": "q98_disponibilidade_tema_multidisciplinar_central",
+    "pergunta": "A Biblioteca Central tem materiais que relacionem 'urbanismo sustentável' com 'saúde pública'?"
+  },
+  {
+    "id": "q99_tema_tipo_autor_especifico_ese",
+    "pergunta": "Procuro 'Analíticos' de 'Paulo Freire' sobre 'educação de adultos' na Escola Superior de Educação."
+  },
+  {
+    "id": "q100_teste_negativo_tema_absurdo_geral",
+    "pergunta": "Existem manuais sobre 'criação de unicórnios para fins terapêuticos' em alguma das bibliotecas?"
+  }
+]
+```
